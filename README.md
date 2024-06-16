@@ -1,4 +1,4 @@
-- 👋 Halo, Aku Nabalzam
+- 👋 Hello, World! My name is Nabalzam
 - 👀 I’m interested in Bakso isi telor
 - 🌱 I’m currently learning how to eat Bakso isi telor deliciously
 - 💞️ I’m looking to collaborate on Bakso isi telor eating competition
