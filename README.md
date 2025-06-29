@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="/img/hiura.jpg" width="500" alt="Hiura-Mihate">
     <h1>Howdy, World!</h2>
+    <img src="/img/hiura.jpg" width="500" alt="Hiura-Mihate">
 </div>
 
 
