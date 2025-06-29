@@ -1,6 +1,9 @@
-## Howdy, World!
+<div align="center">
+    <img src="/img/hiura.jpg" width="700" alt="Hiura-Mihate">
+    <h1>Howdy, World!</h2>
+</div>
 
-![Hiura-Mihate](img/hiura.jpg)
+
 
 <!-- - 👋 Hello, World! My name is Nestava
 - 👀 I’m interested in Bakso isi telor
