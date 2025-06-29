@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="/img/hiura.gif" width="500" alt="Hiura-Mihate"> <p>(he's a dude.)</p>
+  <img src="/img/hiura.gif" width="700" alt="Hiura-Mihate"> <p>(he's a dude.)</p>
 </p>
 
-## <center> Howdy, World! <br> Welcome to _Nestava_'s Profile</center>
+# <p align="center"> Howdy, World! <br> Welcome to _Nestava_'s Profile</p>
 
-_<center>- Wanna be a **good coder**, but is a **lazy loader**. -</center>_
+_<p align="center">- Wanna be a **good coder**, but is a **lazy loader**. -</p>_
 
 <hr>
 
