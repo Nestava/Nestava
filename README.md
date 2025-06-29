@@ -1,9 +1,13 @@
 <div align="center">
-    <h1>Howdy, World!</h2>
-    <img src="/img/hiura.jpg" width="500" alt="Hiura-Mihate">
+    <h1 style="
+        padding-top: 10px;
+        color: white;
+        background: linear-gradient(to right, cyan, purple);
+    ">
+  Howdy, World!
+</h1>
+    <img src="/img/hiura.gif" width="500" alt="Hiura-Mihate">
 </div>
-
-
 
 <!-- - 👋 Hello, World! My name is Nestava
 - 👀 I’m interested in Bakso isi telor
